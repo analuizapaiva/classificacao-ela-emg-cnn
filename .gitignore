@@ -1,0 +1,21 @@
+# Dados originais
+dataset_ela_n2001/
+*.bin
+*.hea
+*.zip
+
+# Modelos treinados
+*.keras
+*.h5
+
+# Arquivos temporários
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos locais
+.DS_Store
