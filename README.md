@@ -30,7 +30,7 @@ A divisão foi realizada por paciente, evitando que sinais de um mesmo indivídu
 | Validação | 3 | 874 |
 | Teste reservado | 4 | 901 |
 
-**Fonte dos dados:** EMGLAB N2001. Adicionar aqui o endereço oficial do dataset.
+**Fonte dos dados:** EMGLAB N2001
 
 ## Pré-processamento
 
